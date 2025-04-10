@@ -27,7 +27,6 @@ var/
 .env
 
 # IDE files
-.idea/
 .vscode/
 *.swp
 *.swo
