@@ -24,8 +24,6 @@ var/
 *.egg
 
 # Virtual Environment
-venv/
-ENV/
 .env
 
 # IDE files
